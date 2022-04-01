@@ -6,4 +6,4 @@ In the project, Univariate and bivariate analysis have been perfomed
 
 A hypotesis has been set and tested using the t_tests
 
-Point estmatites and confidence intervals have also been computed
+Point estimates and confidence intervals have also been computed
