@@ -1,9 +1,18 @@
+# Analysis of car rental data project
+
+## Objective
+
 This project aims to confirm whether there is a significant difference between car rentals over the weekend and during the weekday for an electric car comapany
 
-The repository contains a python notebook and a word report
+## Contents
 
-In the project, Univariate and bivariate analysis have been perfomed
+- Juypiter Notebook
+- Word Report
 
-A hypotesis has been set and tested using the t_tests
+# Analysis performed
 
-Point estimates and confidence intervals have also been computed
+- Univariate Analysis
+- Bivariate analysis
+- Hypothesis tests
+- Point estimates
+- Confidence intervals
